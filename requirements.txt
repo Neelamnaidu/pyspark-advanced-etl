@@ -1,0 +1,7 @@
+pyspark
+delta-spark
+numpy
+pandas
+pyarrow
+matplotlib
+scikit-learn
